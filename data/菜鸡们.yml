@@ -1,0 +1,33 @@
+class_name: 菜鸡们
+class_desc: ''
+link_list:
+  - avatar: >-
+      https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+    description: Remarkable life,for science and technology.
+    link: https://zykj.js.org/
+    name: 卓越科技的Blog
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://cdn.jsdelivr.net/gh/SerokSSR/cdn2/k16.png
+    description: 此宵风醉月舞萤
+    link: https://snow.js.org/
+    name: Seeker
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+    description: CC康纳百川
+    link: https://www.ccknbc.cc
+    name: CC的部落格
+    theme:
+      style: card
+      siteImage: >-
+        https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.ccknbc.cc.webp
+  - avatar: https://www.livejq.top/img/livejqTop.jpg
+    description: 若没有乐趣可言, 何来开始
+    link: https://www.livejq.top
+    name: liveJQ
+    theme:
+      style: default
+      siteImage: ''

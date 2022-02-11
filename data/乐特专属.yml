@@ -1,0 +1,10 @@
+class_name: 乐特专属
+class_desc: ''
+link_list:
+  - avatar: https://www.lete114.top/img/avatar.png
+    description: 人生只有一次，大胆的生活！！
+    link: https://www.lete114.top
+    name: Lete乐特
+    theme:
+      style: card
+      siteImage: https://7.dusays.com/2021/01/12/42c99956eac68.png
