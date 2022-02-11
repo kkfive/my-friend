@@ -57,7 +57,7 @@ const init = async () => {
       class_desc: '',
       link_list: friendObj[labelName]
     })
-    fs.writeFileSync(`../data/${index}.yml`, res)
+    fs.writeFileSync(`./data/${index}.yml`, res)
   })
 }
 init()
