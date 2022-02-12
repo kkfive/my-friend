@@ -1,6 +1,13 @@
 class_name: 大佬们
 class_desc: ''
 link_list:
+  - avatar: https://blog.onemue.cn/wp-content/uploads/2020/06/logo-5.png
+    description: 不积跬步无以至千里，不积小流无以成江海
+    link: https://blog.onemue.cn/
+    name: 一生亦木
+    theme:
+      style: default
+      siteImage: ''
   - avatar: https://rmt.dogedoge.com/fetch/ZYGG/storage/20201208143114085332.png
     description: 低调求发展，潜心习安全
     link: https://blog.zygd.site

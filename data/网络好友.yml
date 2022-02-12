@@ -1,0 +1,241 @@
+class_name: 网络好友
+class_desc: <h4>这些可能都是群友吧？</h4>
+link_list:
+  - name: 雪曦
+    link: https://xiabor.com
+    avatar: https://xiabor.com/img/avatar.png
+    description: 君浅吟，叹落笔
+    theme:
+      style: default
+      siteImage: ''
+  - name: GamerNoTitle
+    link: https://bili33.top
+    avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
+    description: 一个在懵懂无知中成长的高中生程序员^V^
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 云游君
+    link: https://yunyoujun.cn
+    avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
+    description: All at sea.
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 超逸の技术博客
+    link: https://yangchaoyi.vip/
+    avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+    description: 不是只会写业务代码の前端攻城狮
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Javidの部屋
+    link: https://javid.cn
+    avatar: https://cdn.jsdelivr.net/gh/Javid-Xi/cdn@1.7/img/doraemon.jpg
+    description: 一个技术路上的おとこのこ
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: SL’s Blog
+    link: https://blog.slqwq.cn/
+    avatar: https://cdn.slblog.ga/pic/logo.png/
+    description: 梦中做梦，做了个白日梦
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: hzfvictory
+    link: http://blog.jing999.cn
+    avatar: https://ae01.alicdn.com/kf/H9ae3136bf5e440239fa2c611632fbd09H.jpg
+    description: 可能是个前端大佬吧！
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: HCLonely
+    link: https://blog.hclonely.com/
+    avatar: https://blog.hclonely.com/img/avatar.jpg
+    description: 一个懒人的博客
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: HCLonely
+    link: https://blog.hclonely.com/
+    avatar: https://blog.hclonely.com/img/avatar.jpg
+    description: 一个懒人的博客
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 松鼠の博客
+    link: https://doge.uk/
+    avatar: https://doge.uk/images/avatar.png
+    description: 大佬眼中的小白，熟人眼里的技术宅
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 纸盒博客
+    link: https://zhebk.cn
+    avatar: https://q.qlogo.cn/g?b=qq&nk=945203919&s=100
+    description: 我们，渺小到不可一世。
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Dxoca's blog
+    link: https://dxoca.cn/
+    avatar: http://Dxoca.cn/image/headPortrait.jpg
+    description: 生命不息折腾不止.寒光博客
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Hilox’s Blog
+    link: https://www.zhaohaihao.com/
+    avatar: https://gravatar.loli.net/avatar/406ff7ab1648c391f51777f8423008bb
+    description: 人生就像巧克力
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: SWJの部落阁
+    link: https://blog.zggsong.cn
+    avatar: https://blog.7664926586.top/usr/default/img/favicon.ico
+    description: 一只爱健身的程序员~
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 过客~励む
+    link: https://yafine-blog.cn
+    avatar: https://yafine-blog.cn/medias/avatar.jpg
+    description: 你现在的努力，是为了以后有更多的选择
+    theme:😎
+      style: default
+      siteImage: ''
+
+  - name: 洛尘曦
+    link: https://www.sgyzyun.club/
+    avatar: https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.1.7/images/lcx.jpg
+    description: 一个手无缚机（手机）之力的书生小站~
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 洛尘曦
+    link: https://www.sgyzyun.club/
+    avatar: https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.1.7/images/lcx.jpg
+    description: 一个手无缚机（手机）之力的书生小站~
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 醉渔小站
+    link: https://blog.zuiyu1818.cn/
+    avatar: https://blog.zuiyu1818.cn/images/avatar.png
+    description: 分享所知所学，记录折腾之路
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 皮皮凛の小窝
+    link: https://owomoe.net/
+    avatar: https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg
+    description: 永远相信美好的事情即将发生~
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Moea
+    link: https://moea.cc/
+    avatar: https://moea.cc/content/templates/NULL/images/tx.jpg
+    description: 一个杂七杂八的小世界
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: HONGWEI’s Blog
+    link: https://www.zhwei.cn/
+    avatar: https://www.zhwei.cn/favicon.ico
+    description: 写如诗的内容，分享温而不沸的生活。
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: IT之旅
+    link: https://www.meijindong.top/
+    avatar: https://www.meijindong.top/img/avatar.png
+    description: 程序员在旅途
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 查理的自留地
+    link: https://www.vachiko.com
+    avatar: https://www.vachiko.com/upload/medium.jpg
+    description: 不懂医学的摄影师不是好摄影师
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: XJHui’s Blog
+    link: https://plushine.cn
+    avatar: https://cdn.jsdelivr.net/gh/xingjiahui/CDN/touxiang.jpg
+    description: 这个博主想骗访客^_^
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 惑
+    link: https://huohuohuohuohuohuo.github.io/
+    avatar: http://q8rorzm33.bkt.clouddn.com/huo.png
+    description: 楼下我老婆( •̀ .̫ •́ )✧
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 会飞的小弋
+    link: https://lovelijunyi.gitee.io/
+    avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
+    description: 喜欢大数据，嵌入式和机器视觉
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Colsrch
+    link: https://colsrch.top/
+    avatar: https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg
+    description: 愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: uncleacc
+    link: https://www.fezhu.top
+    avatar: https://cdn.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
+    description: 一只蒟蒻仔
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Sanarous
+    link: https://bestzuo.cn
+    avatar: https://cdn.jsdelivr.net/gh/Sanarous/files@1.11/images/avatar.jpeg
+    description: 码农人生
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: 五月森林 志
+    avatar: https://cdn.jsdelivr.net/gh/ZhaoEli/static/img/sys/avatar.jpg
+    link: https://cherrycat.gitee.io
+    description: 业余编剧，互联网产品经理，记录日常感悟及学习。
+    theme:
+      style: default
+      siteImage: ''
