@@ -115,8 +115,8 @@ link_list:
   - name: 过客~励む
     link: https://yafine-blog.cn
     avatar: https://yafine-blog.cn/medias/avatar.jpg
-    description: 你现在的努力，是为了以后有更多的选择
-    theme:😎
+    description: 😎你现在的努力，是为了以后有更多的选择
+    theme:
       style: default
       siteImage: ''
 
