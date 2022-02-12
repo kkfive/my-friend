@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "build": "node ./src/index.js"
+    "build": "node ./src/index.js",
+    "transfer":"node ./src/transfer.js"
   },
   "author": "",
   "license": "ISC",
