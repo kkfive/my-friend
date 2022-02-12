@@ -64,14 +64,6 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: HCLonely
-    link: https://blog.hclonely.com/
-    avatar: https://blog.hclonely.com/img/avatar.jpg
-    description: 一个懒人的博客
-    theme:
-      style: default
-      siteImage: ''
-
   - name: 松鼠の博客
     link: https://doge.uk/
     avatar: https://doge.uk/images/avatar.png
