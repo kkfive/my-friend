@@ -9,11 +9,23 @@ files.forEach(function (item, index) {
     friendFiles.push(item)
   }
 })
+const sortKey = process.env.sortKey || ''
+/**
+ * 排序
+ */
+sortKey.split(',').forEach((key) => {
+  if (key) {
+    result[key] = null
+  }
+})
 
 friendFiles.forEach((item) => {
   const name = item.split('.')
   result[name[0]] = yaml.load(fs.readFileSync(`./data/${item}`, 'utf8'))
 })
 
-fs.mkdirSync('./dist')
+if (!fs.existsSync('./dist')) {
+  fs.mkdirSync('./dist')
+}
+
 fs.writeFileSync('./dist/index.json', JSON.stringify(result))
