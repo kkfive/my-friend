@@ -251,3 +251,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - avatar: https://gravatar.loli.net/avatar/ba83fa02fc4b2ba621514941307e21be
+    description: 木木木木木大佬
+    link: https://immmmm.com/
+    name: 林木木
+    theme:
+      style: default
+      siteImage: ''
