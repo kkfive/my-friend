@@ -22,8 +22,7 @@ link_list:
     theme:
       style: card
       siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/forever97.top.webp
-  - avatar: >-
-      https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+  - avatar: https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
     description: Remarkable life,for science and technology.
     link: https://zykj.js.org
     name: 卓越科技的Blog
@@ -51,8 +50,7 @@ link_list:
     theme:
       style: item
       siteImage: ''
-  - avatar: >-
-      https://heart-of-engine-picture-bed-1.oss-cn-beijing.aliyuncs.com/img/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg
+  - avatar: https://heart-of-engine-picture-bed-1.oss-cn-beijing.aliyuncs.com/img/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg
     description: 专注于数学与编程的完美结合,分享生活,分享知识
     link: https://www.heart-of-engine.top/
     name: Heart-of-engine
@@ -298,11 +296,17 @@ link_list:
     theme:
       style: item
       siteImage: https://cdn.jsdelivr.net/gh/fivefirex/cdn/fivefire2021-siteshot.jpg
-  - avatar: >-
-      https://npm.elemecdn.com/onexuezha_img@1.0.27/%E7%AB%99%E7%82%B9/xuezha.webp
+  - avatar: https://npm.elemecdn.com/onexuezha_img@1.0.27/%E7%AB%99%E7%82%B9/xuezha.webp
     description: 择一事终一生,不为繁华易匠心
     link: https://www.xuezha.cc/
     name: XueZha
     theme:
       style: item
       siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://mingxin142.gitee.io/images/logo.png
+    description: 一个分享知识和快乐的地方！
+    link: https://www.wwru.cn/
+    name: Mx
+    theme:
+      style: item
+      siteImage: ''
