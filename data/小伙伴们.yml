@@ -1,0 +1,308 @@
+class_name: 小伙伴们
+class_desc: ''
+link_list:
+  - avatar: https://akilar.top/img/siteicon/favicon.png
+    description: 期待您的光临！
+    link: https://akilar.top/
+    name: Akilarの糖果屋
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/akilar.top.webp
+  - avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+    description: 一个收藏回忆与分享技术的地方！
+    link: https://www.antmoe.com/
+    name: 小康博客
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.antmoe.com.webp
+  - avatar: https://forever97.top/img/avatar.png
+    description: 在人海里梦游
+    link: https://forever97.top
+    name: 未央の童话镇
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/forever97.top.webp
+  - avatar: >-
+      https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+    description: Remarkable life,for science and technology.
+    link: https://zykj.js.org
+    name: 卓越科技的Blog
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/zykj.js.org.webp
+  - avatar: https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg
+    description: 用这生命中的每一秒，给自己一个不后悔的未来
+    link: https://noionion.top/
+    name: 贰猹的小窝
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/noionion.top.webp
+  - avatar: https://cdn.jsdelivr.net/npm/nanshen/avatar.jpg
+    description: 爱折腾的JAVA开发工程师
+    link: https://blog.imzjw.cn
+    name: 小嘉的部落格
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.imzjw.cn.webp
+  - avatar: https://cdn.leader755.com/public/wx_avatar.png
+    description: 分享web前端相关的技术文章，会记录日常生活中的琐事和大家一起分享。
+    link: https://www.leader755.com/
+    name: leader755 blogs
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: >-
+      https://heart-of-engine-picture-bed-1.oss-cn-beijing.aliyuncs.com/img/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg
+    description: 专注于数学与编程的完美结合,分享生活,分享知识
+    link: https://www.heart-of-engine.top/
+    name: Heart-of-engine
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://rmt.dogedoge.com/fetch/hajeekn/storage/Logo@B_3508X4961.png
+    description: 梦中做梦,做了个白日梦
+    link: https://blog.slqwq.cn
+    name: SL's Blog
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.slqwq.cn.webp
+  - avatar: https://blog.zhheo.com/img/avatar.png
+    description: 爱折腾的设计师
+    link: https://blog.zhheo.com/
+    name: Heo
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://www.lete114.top/img/avatar.png
+    description: 人生只有一次，大胆的生活!!
+    link: https://blog.lete114.top
+    name: Lete乐特
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.lete114.top.webp
+  - avatar: https://cdn.jsdelivr.net/gh/Daibi-mua/jsdelivr@1.3/logo.png
+    description: 一个初中生的博客
+    link: https://blog.keepdai.cn/
+    name: 呆逼の博客
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://thirdqq.qlogo.cn/g?b=sdk&nk=3225454747&s=140
+    description: 很帅很帅的中学生☺
+    link: https://cn.weikecc.top/
+    name: WeiKe_Joe
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/cn.weikecc.top.webp
+  - avatar: https://public.cdn.nesxc.com/avatar.jpg
+    description: 青石落晚巷 故人未还乡
+    link: https://www.nesxc.com
+    name: Nesxc
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.nesxc.com.webp
+  - avatar: https://zfe.space/images/headimage.png
+    description: 咕咕咕！
+    link: https://zfe.space/
+    name: 小冰博客
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/zfe.space.webp
+  - avatar: https://i.loli.net/2021/02/09/Q3zydh8JaruUcFN.png
+    description: 一个练习Bug时长两年半的程序员建立的小站
+    link: https://blog.bugjava.cn
+    name: 包子's Blog
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://image.ql-isaac.cn/站长头像.jpg
+    description: It’s a beautiful day!
+    link: https://ql-isaac.cn/
+    name: 学习与生活
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/ql-isaac.cn.webp
+  - avatar: https://cdn.jsdelivr.net/gh/wayne0926/myphoto/img/avatar.jpg
+    description: 以梦为马，不负韶华。
+    link: https://wr0926.ml
+    name: 时过境迁Wayne博客
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/wr0926.ml.webp
+  - avatar: https://cdn.jsdelivr.net/gh/CNhuazhu/Image/avatar.jpg
+    description: 佛系青年
+    link: https://cnhuazhu.gitee.io
+    name: 花猪のBlog
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://s3.ax1x.com/2021/02/03/yKETNn.jpg
+    description: Think Differently. 非同凡想。
+    link: https://stevestudio.top
+    name: Steve 祎
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: >-
+      https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213111233.png
+    description: 往者不谏 来者可追
+    link: https://sutianxin.top
+    name: 天昕
+    theme:
+      style: item
+      siteImage: https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213113046.jpg
+  - avatar: 'https://cdn.jsdelivr.net/gh/zhao-v/blog-img/img/20201020000120.jpg '
+    description: 所爱隔山海，山海皆可平；所念隔星河，星河不可及。
+    link: https://blog.dhbxs.top
+    name: 灯火不休时
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
+    description: 为之则易，不为则难。
+    link: https://blog.raxianch.moe/
+    name: 快乐咸鱼の RaXianch 窝
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://adil.com.cn/img/touxiang.jpg
+    description: 生命不死，折腾不止
+    link: https://blog.adil.com.cn
+    name: Adil
+    theme:
+      style: card
+      siteImage: ''
+  - avatar: https://cdn.jsdelivr.net/gh/HopeLight/photo/blog/icon.png
+    description: 生亦何欢，死亦何苦
+    link: https://ranas.cn/
+    name: HopeLight|Blog
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://0skyu.cn/img/1.jpg
+    description: 一枚技术控的博客
+    link: https://0skyu.cn
+    name: 零域
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+  - avatar: https://cdn.jsdelivr.net/gh/YDTRINLEY/YDTRINLEY.github.io/img/avatar.png
+    description: '"一切有为法, 如梦幻泡影, 如露亦如电, 应作如是观..."'
+    link: https://www.yd-cfcz.art
+    name: 幻世·游戏人间·N次元
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+  - avatar: https://hotarugali.github.io/img/hotarugali.jpg
+    description: 欢迎来到我的博客星球^_^
+    link: https://hotarugali.github.io/
+    name: お前はどこまで見えている
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://gitee.com/huihongyhy/imgbed/raw/master/img/avatar.png
+    description: 一名科技爱好者的空间
+    link: https://space.greyh.cn
+    name: 灰鸿的空间
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/space.greyh.cn.webp
+  - avatar: https://cdn.jsdelivr.net/gh/stevestudio-yi/jsdcdn/20210611133706.jpg
+    description: Steve Studio 站点
+    link: https://stevestudio.top/
+    name: SteveStudio
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/stevestudio-yi/jsdcdn/20210828083742.png
+  - avatar: https://cdn.jsdelivr.net/gh/cxplay/core@latest/logo/cxplay.png
+    description: Share With You.
+    link: https://www.cxplay.org/
+    name: CXPLAY World
+    theme:
+      style: card
+      siteImage: https://image.thum.io/get/width/1024/crop/768/allowJPG/wait/20/noanimate/https://www.cxplay.org
+  - avatar: https://main.qcloudimg.com/raw/2ef2786bc020ac22e5c523b27a7b07b5.svg
+    description: 「CloudBase Webify 提供网站托管服务」
+    link: https://webify.cloudbase.net/
+    name: 云开发 Webify
+    theme:
+      style: card
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/webify.cloudbase.net.webp
+  - avatar: https://cdn.jsdelivr.net/gh/mjcfx/picgo/img/qqtou.jpg
+    description: 欢迎您的访问！
+    link: https://6ing.xyz/
+    name: Xc's Blog
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://moeci.com/images/avatar.png
+    description: The stupid one is me
+    link: https://moeci.com
+    name: yiyun's Blog
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://mrzym.gitee.io/blogimg/head/head.png
+    description: 陪你看日落的人，比日落本身更温柔。
+    link: https://mrzym.gitee.io/
+    name: Mr M
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://cdn.jsdelivr.net/gh/hiltay/imgcdn/img/202111191951780.JPG
+    description: When nothing goes right,just go left.
+    link: https://www.yyyzyyyz.cn/
+    name: Black Flies
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/hiltay/imgcdn/img/202111191934973.jpg
+  - avatar: https://cdn.jsdelivr.net/gh/hurangit/hexo-img/avatar.png
+    description: 长风破浪会有时，直挂云帆济沧海
+    link: https://blog.huran.xyz/
+    name: HuRan Blog
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://unpkg.zhimg.com/gahotx-cdn@latest/photo/cat.jpg
+    description: Don't repeat yourself
+    link: https://gahotx.cn/
+    name: Gahotx
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://kaiboshi.gitee.io/medias/avatar.png
+    description: 做一个有梦想的咸鱼
+    link: https://kaiboshi.gitee.io/
+    name: kaiboshi
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://cdn.jsdelivr.net/gh/Kindle-deep/image@main/RoundCorner.png
+    description: Nothing is impossible to a willing heart.
+    link: https://kindle-deep.github.io
+    name: Kindle deepのBlog
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+  - avatar: https://www.hack-gov.cn/img/friend_404.gif
+    description: 御网尚书 - 源自于热爱网络安全
+    link: https://www.hack-gov.cn
+    name: 御网尚书
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+  - avatar: https://cdn.jsdelivr.net/gh/fivefirex/cdn/avatar.jpeg
+    description: 啥也不会的菜鸟，开发编程
+    link: https://fivefirex.github.io/
+    name: FiveFire的博客
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/fivefirex/cdn/fivefire2021-siteshot.jpg
+  - avatar: >-
+      https://npm.elemecdn.com/onexuezha_img@1.0.27/%E7%AB%99%E7%82%B9/xuezha.webp
+    description: 择一事终一生,不为繁华易匠心
+    link: https://www.xuezha.cc/
+    name: XueZha
+    theme:
+      style: item
+      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp

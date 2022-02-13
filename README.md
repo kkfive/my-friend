@@ -1,10 +1,10 @@
 ## 说明
 
-这是小康友链仓库，将友链一一记录在`data`文件夹中
+这是CC友链仓库，将友链一一记录在`data`文件夹中
 
 上述教程仅为演示 不建议各位互换友链的小伙伴新建文件进行合并后，建议各位小伙伴选择已有标签进行合并。
 
-你所申请的友链将全部在[小康的友链](https://www.antmoe.com/friends/)中显示。
+你所申请的友链将全部在[CC的小伙伴们 | CC的部落格](https://blog.ccknbc.cc/blogroll/)中显示。
 
 ## 提交友链
 
@@ -23,10 +23,10 @@
 例如，我添加如下友链到新的文件`测试.yml`
 
 ```yaml
-name: 小康博客
-link: https://www.antmoe.com/
-avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
-descr: 一个收藏回忆与分享技术的地方！
+name: CC康纳百川
+link: https://blog.ccknbc.cc
+avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+descr: CC康纳百川的小窝
 ```
 
 
@@ -41,10 +41,10 @@ descr: 一个收藏回忆与分享技术的地方！
    class_name: 测试分组
    class_desc: 这是一个测试使用的分组
    link_list:
-     - name: 小康博客
-       link: https://www.antmoe.com/
-       avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
-       descr: 一个收藏回忆与分享技术的地方！
+     - name: CC康纳百川
+       link: https://blog.ccknbc.cc
+       avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+       descr: CC康纳百川的小窝
        theme:
          style: default
          siteImage:

@@ -47,7 +47,7 @@ const splitData = (data) => {
 
 const init = async () => {
   const res = await getData(
-    'https://unpkg.com/myfriend@1.6.43951471215/friend.json'
+    'https://api.ccknbc.vercel.app/api/github?repo=%27blogroll%27&user=%27ccknbc-actions%27&branch=%27blogroll%27&path=%27blogroll.json%27'
   )
   const friendObj = splitData(res)
   const allLabelList = Object.keys(friendObj)

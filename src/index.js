@@ -28,4 +28,5 @@ if (!fs.existsSync('./dist')) {
   fs.mkdirSync('./dist')
 }
 
-fs.writeFileSync('./dist/index.json', JSON.stringify(result))
+fs.writeFileSync('./dist/blogroll.json', JSON.stringify(result))
+
