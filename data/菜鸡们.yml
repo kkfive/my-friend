@@ -31,3 +31,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: https://www.itciraos.cn/mysource/avatar.webp
+    description: DARE & DO
+    link: https://www.itciraos.cn
+    name: 葱苓的小窝  
+    theme:
+      style: card
+      siteImage: >-
+        https://www.itciraos.cn/mysource/site-shot.png
