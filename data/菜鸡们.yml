@@ -36,5 +36,6 @@ link_list:
     link: https://www.itciraos.cn
     name: 葱苓的小窝  
     theme:
-      style: default
-      siteImage: https://www.itciraos.cn/mysource/site-shot.png
+      style: card
+      siteImage: >-
+        https://www.itciraos.cn/mysource/site-shot.png
