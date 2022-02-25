@@ -129,7 +129,7 @@ link_list:
       siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/wr0926.ml.webp
   - avatar: https://cdn.jsdelivr.net/gh/CNhuazhu/Image/avatar.jpg
     description: 佛系青年
-    link: https://cnhuazhu.gitee.io
+    link: https://cnhuazhu.top
     name: 花猪のBlog
     theme:
       style: item
