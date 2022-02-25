@@ -39,3 +39,10 @@ link_list:
       style: card
       siteImage: >-
         https://www.itciraos.cn/mysource/site-shot.png
+  - avatar: https://cdn.jsdelivr.net/gh/linglaoda/linglaoda.github.io@main/img/avatar.webp
+    description: 呆呆的凌老大
+    link: https://bingling.me
+    name: 凌老大
+    theme:
+      style: default
+      siteImage: ''
