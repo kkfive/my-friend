@@ -183,14 +183,14 @@ link_list:
     name: 零域
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+      siteImage: 
   - avatar: https://cdn.jsdelivr.net/gh/YDTRINLEY/YDTRINLEY.github.io/img/avatar.png
     description: '"一切有为法, 如梦幻泡影, 如露亦如电, 应作如是观..."'
     link: https://www.yd-cfcz.art
     name: 幻世·游戏人间·N次元
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+      siteImage: 
   - avatar: https://hotarugali.github.io/img/hotarugali.jpg
     description: 欢迎来到我的博客星球^_^
     link: https://hotarugali.github.io/
@@ -281,14 +281,14 @@ link_list:
     name: Kindle deepのBlog
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+      siteImage: 
   - avatar: https://www.hack-gov.cn/img/friend_404.gif
     description: 御网尚书 - 源自于热爱网络安全
     link: https://www.hack-gov.cn
     name: 御网尚书
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/xxx.webp
+      siteImage: 
   - avatar: https://cdn.jsdelivr.net/gh/fivefirex/cdn/avatar.jpeg
     description: 啥也不会的菜鸟，开发编程
     link: https://fivefirex.github.io/
@@ -302,7 +302,7 @@ link_list:
     name: XueZha
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+      siteImage: 
   - avatar: https://mingxin142.gitee.io/images/logo.png
     description: 一个分享知识和快乐的地方！
     link: https://www.wwru.cn/
@@ -316,4 +316,11 @@ link_list:
     name: easyf12
     theme:
       style: item
-      siteImage: https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/www.ccknbc.cc.webp
+      siteImage: 
+  - avatar: https://wlopck.gitee.io/blog/img/ico.png
+    description: 守一座空城，等一位旧人。
+    link: https://wlopck.gitee.io/blog/
+    name: 孤城の博客
+    theme:
+      style: item
+      siteImage: 
