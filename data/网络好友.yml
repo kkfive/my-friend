@@ -207,3 +207,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
+  - name: Gahotx
+    link: https://gahotx.cn/
+    avatar: https://pub.gahotx.cn/photo/cat.jpg
+    description: Don't repeat yourself
+    theme:
+      style: default
+      siteImage: ''
