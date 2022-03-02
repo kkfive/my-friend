@@ -112,22 +112,6 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: 洛尘曦
-    link: https://www.sgyzyun.club/
-    avatar: https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.1.7/images/lcx.jpg
-    description: 一个手无缚机（手机）之力的书生小站~
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 洛尘曦
-    link: https://www.sgyzyun.club/
-    avatar: https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.1.7/images/lcx.jpg
-    description: 一个手无缚机（手机）之力的书生小站~
-    theme:
-      style: default
-      siteImage: ''
-
   - name: 醉渔小站
     link: https://blog.zuiyu1818.cn/
     avatar: https://blog.zuiyu1818.cn/images/avatar.png
@@ -156,14 +140,6 @@ link_list:
     link: https://www.zhwei.cn/
     avatar: https://www.zhwei.cn/favicon.ico
     description: 写如诗的内容，分享温而不沸的生活。
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: IT之旅
-    link: https://www.meijindong.top/
-    avatar: https://www.meijindong.top/img/avatar.png
-    description: 程序员在旅途
     theme:
       style: default
       siteImage: ''

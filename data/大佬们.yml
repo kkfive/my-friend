@@ -29,13 +29,6 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.myxxts.club/2021/06/20/u6lQ.jpg
-    description: 在探索的道路上跌跌撞撞，永不停歇
-    link: https://www.myxxts.com
-    name: 沐云湘夕
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://cdn.nutssss.cn/wp-content/uploads/2020/02/1581510626-head.png
     description: 一个爱好钻研技术的咸鱼
     link: https://blog.n0ts.cn/
@@ -143,13 +136,6 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.mr90.top/admin/weixin/QQ%E5%9B%BE%E7%89%8720201001112032.jpg
-    description: 你必须非常努力，才能看起来毫不费力。
-    link: https://u.mr90.top
-    name: Harryの心阁
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://public.cdn.nesxc.com/avatar.jpg
     description: 青石落晚巷 故人未还乡
     link: https://www.nesxc.com
@@ -240,14 +226,6 @@ link_list:
     description: ''
     link: https://blog.catrol.cn/
     name: 常青园晚
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://img.recordmylife.top/coverPicture/head.png?x-oss-process=style/300x300
-    description: 虔诚的灵魂和一颗积极向上的心
-    link: https://www.recordmylife.top/
-    name: WALKER's blog
     theme:
       style: default
       siteImage: ''
