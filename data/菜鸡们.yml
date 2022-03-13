@@ -32,3 +32,10 @@ link_list:
       style: card
       siteImage: >-
         https://www.itciraos.cn/mysource/site-shot.png
+  - avatar: https://clz.vercel.app/medias/avatar.png
+    description: One plus one equals two!!!
+    link: https://clz.vercel.app/
+    name: 赤蓝紫
+    theme:
+      style: default
+      siteImage: ''
