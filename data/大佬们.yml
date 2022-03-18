@@ -237,3 +237,27 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - avatar: https://s4.ax1x.com/2021/12/11/oTDujJ.jpg
+    description: 记录一枚菜鸟的征程
+    link: https://226yzy.com
+    name: 星空下的YZY
+    theme:
+      style: default
+      siteImage: ''
+
+  - avatar: https://cdn.jsdelivr.net/gh/emoryhuang/imgbed@master/avatar.png
+    description: Learning everything
+    link: https://emoryhuang.cn/
+    name: EmoryHuang's Blog
+    theme:
+      style: default
+      siteImage: ''
+
+  - avatar: https://moeci.com/images/avatar.png
+    description: The stupid one is me
+    link: https://moeci.com
+    name: yiyun's Blog
+    theme:
+      style: default
+      siteImage: ''
