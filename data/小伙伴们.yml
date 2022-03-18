@@ -324,3 +324,10 @@ link_list:
     theme:
       style: item
       siteImage: 
+  - name: CasecoRI 的小站
+    link: https://www.casecori.top/
+    avatar: https://casecori.stdcdn.com/favicon.png
+    description: Hyper 2022！
+    theme:
+      style: default
+      siteImage: ''
