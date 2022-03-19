@@ -32,3 +32,10 @@ link_list:
       style: card
       siteImage: >-
         https://www.itciraos.cn/mysource/site-shot.png
+  - avatar: https://www.clzczh.top/medias/avatar.png
+    description: One plus one equals two!!!
+    link: https://www.clzczh.top/
+    name: 赤蓝紫
+    theme:
+      style: default
+      siteImage: ''
