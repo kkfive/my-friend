@@ -223,3 +223,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
+  - name: ImCaO's Blog
+    link: https://www.imcao.cn
+    avatar: https://www.imcao.cn/avatar.png
+    description: 花有重开日，人无再少年。
+    theme:
+      style: default
+      siteImage: ''
