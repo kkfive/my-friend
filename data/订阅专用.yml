@@ -1,0 +1,13 @@
+class_name: 订阅专用
+class_desc: 用于订阅一些博客给友链朋友圈爬虫使用，不作为友链使用。
+link_list:
+  - avatar: https://www.ruanyifeng.com/blog/images/person2_s.jpg
+    description: 阮一峰的网络日志
+    link: https://www.ruanyifeng.com/blog/
+    name: 阮一峰的网络日志
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: false
+    # 自定义后缀，对应友链爬虫的suffix字段
+    subSuffix: atom.xml
+    # 生成链接时忽略此条记录（即不生成时不会生成此条友链）
+    disable: true

@@ -6,13 +6,12 @@
   "type": "commonjs",
   "scripts": {
     "build": "node ./src/index.js",
-    "transfer":"node ./src/transfer.js"
+    "transfer": "node ./src/transfer.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0",
-    "js-yaml": "^4.1.0",
-    "typescript": "^4.5.5"
+    "js-yaml": "^4.1.0"
   }
 }

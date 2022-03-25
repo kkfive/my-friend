@@ -5,6 +5,12 @@ link_list:
     description: 人生只有一次，大胆的生活！！
     link: https://www.lete114.top
     name: Lete乐特
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
+    # 自定义后缀，对应友链爬虫的suffix字段
+    subSuffix: atom.xml
+    # 生成链接时忽略此条记录（即不生成时不会生成此条友链）
+    disable: false
     theme:
       style: card
       siteImage: https://7.dusays.com/2021/01/12/42c99956eac68.png
