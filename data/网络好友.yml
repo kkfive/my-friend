@@ -52,6 +52,8 @@ link_list:
     link: http://blog.jing999.cn
     avatar: https://ae01.alicdn.com/kf/H9ae3136bf5e440239fa2c611632fbd09H.jpg
     description: 可能是个前端大佬吧！
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -68,6 +70,8 @@ link_list:
     link: https://doge.uk/
     avatar: https://doge.uk/images/avatar.png
     description: 大佬眼中的小白，熟人眼里的技术宅
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -132,6 +136,8 @@ link_list:
     link: https://moea.cc/
     avatar: https://moea.cc/content/templates/NULL/images/tx.jpg
     description: 一个杂七杂八的小世界
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -164,6 +170,8 @@ link_list:
     link: https://huohuohuohuohuohuo.github.io/
     avatar: http://q8rorzm33.bkt.clouddn.com/huo.png
     description: 楼下我老婆( •̀ .̫ •́ )✧
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -172,12 +180,14 @@ link_list:
     link: https://lovelijunyi.gitee.io/
     avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
     description: 喜欢大数据，嵌入式和机器视觉
+    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+    banSub: true
     theme:
       style: default
       siteImage: ''
 
   - name: Colsrch
-    link: https://colsrch.top/
+    link: https://colsrch.cn/
     avatar: https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg
     description: 愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。
     theme:
@@ -207,7 +217,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-      
+
   - name: Gahotx
     link: https://gahotx.cn/
     avatar: https://pub.gahotx.cn/photo/cat.jpg
@@ -223,7 +233,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-      
+
   - name: ImCaO's Blog
     link: https://www.imcao.cn
     avatar: https://www.imcao.cn/avatar.png

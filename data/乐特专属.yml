@@ -9,8 +9,12 @@ link_list:
     banSub: true
     # 自定义后缀，对应友链爬虫的suffix字段
     subSuffix: atom.xml
+
+    # 指定自定义路径（例如该用户feed地址为https://blog.lete114.top/feed）
+    feed: https://blog.lete114.top/
+
     # 生成链接时忽略此条记录（即不生成时不会生成此条友链）
     disable: false
     theme:
       style: card
-      siteImage: https://7.dusays.com/2021/01/12/42c99956eac68.png
+      siteImage: https://webstack-screenshot.vercel.app/?url=www.imlete.cn&viewport=1920x1080&fullPage=false&cache=31536000
