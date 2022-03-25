@@ -9,5 +9,5 @@ link_list:
     banSub: false
     # 自定义后缀，对应友链爬虫的suffix字段
     subSuffix: atom.xml
-    # 生成链接时忽略此条记录（即不生成时不会生成此条友链）
+    # 生成链接时忽略此条记录（即生成时友链时不会生成此条友链）
     disable: true
