@@ -8,3 +8,10 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: https://i.niupic.com/images/2022/03/28/9XBI.jpg
+    description: 时人莫小池中水，浅处无妨有卧龙
+    link: https://jackyfzh.github.io/
+    name: Jacky的个人博客
+    theme:
+      style: default
+      siteImage: ''
