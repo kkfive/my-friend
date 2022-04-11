@@ -1,17 +1,14 @@
-class_name: java
-class_desc: ''
-link_list:
-  - avatar: https://cdn.jsdelivr.net/gh/youthlql/lql_img/blog/avatar.jpg
-    description: 主要是Java技术栈的博客，比较偏原理，源码类型的博主
-    link: https://imlql.cn/
-    name: 南念的时光录
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg
-    description: 不想当写手的码农不是好咸鱼_(xз」∠)_
-    link: https://lewky.cn/
-    name: 雨临Lewis的博客
-    theme:
-      style: default
-      siteImage: ''
+- class_name: SerMsのVIP
+  class_desc: 我的朋友们
+  link_list:
+    - name: SerMs
+      link: https://serms.gitee.io
+      avatar: /img/log.png
+      siteshot: https://cdn.jsdelivr.net/gh/Ser-MingShao/ScreenShot@gh-pages/ser-mingshao.github.io.jpg
+      descr: Gitee地址
+
+    - name: SerMs
+      link: https://hgm.vercel.app
+      avatar: /img/log.png
+      siteshot: https://cdn.jsdelivr.net/gh/Ser-MingShao/ScreenShot@gh-pages/ser-mingshao.github.io.jpg
+      descr: 东风吹破少年梦,从此再无赤子心
