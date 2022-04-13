@@ -1,6 +1,14 @@
 class_name: 网络好友
 class_desc: <h4>这些可能都是群友吧？</h4>
 link_list:
+  - name: 小羊睡着了
+    link: https://thtown.cn/
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=750478724&s=640
+    description: 随着时间流逝，很多事情最后可能都会迎刃而解。
+    theme:
+      style: default
+      siteImage: ''
+      
   - name: 雪曦
     link: https://xiabor.com
     avatar: https://xiabor.com/img/avatar.png
@@ -8,6 +16,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
   - name: GamerNoTitle
     link: https://bili33.top
     avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
