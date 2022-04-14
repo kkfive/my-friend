@@ -24,14 +24,14 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://www.itciraos.cn/mysource/avatar.webp
+  - avatar: https://www.itciraos.cn/customized/avatar.webp
     description: DARE & DO
     link: https://www.itciraos.cn
     name: 葱苓的小窝  
     theme:
       style: card
       siteImage: >-
-        https://www.itciraos.cn/mysource/site-shot.png
+        https://www.itciraos.cn/customized/site-shot.png
   - avatar: https://www.clzczh.top/medias/avatar.png
     description: One plus one equals two!!!
     link: https://www.clzczh.top/
