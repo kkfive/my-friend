@@ -250,3 +250,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - name: Bowenの破站
+    link: https://bowenyoung.cn
+    avatar: https://bowenyoung.cn/img/tanzhilang.png
+    description: 信息安全学习中...
+    theme:
+      style: default
+      siteImage: ''
