@@ -250,3 +250,19 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - name: Bowenの破站
+    link: https://bowenyoung.cn
+    avatar: https://bowenyoung.cn/img/avator.png
+    description: 信息安全学习中...
+    theme:
+      style: default
+      siteImage: ''
+
+  - name: Felix的基地
+    link: https://www.felixchen0707.cn
+    avatar: https://www.felixchen0707.cn/img/theme_img/profile.jpg
+    description: 抬头看未来
+    theme:
+      style: default
+      siteImage: ''
