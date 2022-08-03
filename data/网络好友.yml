@@ -282,3 +282,12 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
+  - name: Bore's Notes
+    link: https://bore.vip
+    avatar: https://cdn.jsdelivr.net/gh/iwyang/pic/avatar.jpg
+    description: 博观而约取，厚积而薄发。
+    theme:
+      style: default
+      siteImage: ''
+      
