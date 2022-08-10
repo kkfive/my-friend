@@ -39,3 +39,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: >-
+      https://eamonimgbed.oss-cn-beijing.aliyuncs.com/img/avatar.png
+    description: 一个生物研究生的学习笔记
+    link: https://fanyiming.life/
+    name: Eamon's Blog
+    theme:
+      style: default
+      siteImage: ''
