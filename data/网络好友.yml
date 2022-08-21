@@ -291,3 +291,11 @@ link_list:
       style: default
       siteImage: ''
       
+  - name: YupenBobの小窝
+    link: https://www.yupenbob.ml
+    avatar: https://www.yupenbob.ml/img/YupenBob.png
+    description: 分享一些好玩的~
+    theme:
+      style: default
+      siteImage: ''
+      
