@@ -299,3 +299,11 @@ link_list:
       style: default
       siteImage: ''
       
+  - name: wjnba 的博客
+    link: https://wjnba.gitee.io/
+    avatar: https://raw.githubusercontents.com/wjnba/resources/main/img/202205231730917.jpeg
+    description: 君子以坦荡立于世间，必将步步生花，一路繁华
+    theme:
+      style: default
+      siteImage: ''   
+      
