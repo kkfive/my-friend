@@ -307,3 +307,11 @@ link_list:
       style: default
       siteImage: ''
       
+  - name: Mycpen
+    link: https://cpen.top/
+    avatar: https://image.cpen.top/image/avatar.jpg
+    descr: 这是一个有趣的博客
+    theme:
+      style: default
+      siteImage:
+      
