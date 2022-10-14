@@ -315,3 +315,10 @@ link_list:
       style: default
       siteImage:
       
+  - name: ichika
+    link: https://ichika.cc
+    avatar: https://cos.ichika.cc/page%2FHeadIcon.jpg
+    descr: Hello,gamer!
+    theme:
+      style: default
+      siteImage: ''
