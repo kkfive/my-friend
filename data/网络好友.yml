@@ -315,3 +315,10 @@ link_list:
       style: default
       siteImage:
       
+  - name: 何孙涛の博客
+    link: https://z555.icu/
+    avatar: https://z555.icu/img/avatar.png
+    descr: 什么都无法阻挡我们前进的脚步
+    theme:
+      style: default
+      siteImage:
