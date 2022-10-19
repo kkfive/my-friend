@@ -332,3 +332,11 @@ link_list:
       style: default
       siteImage: ''
 
+  - name: 心流
+    link: https://blog.panghai.top
+    avatar: https://blog.panghai.top/img/avatar.png
+    descr: 保持谨慎，保持乐观
+    theme:
+      style: default
+      siteImage: ''
+
