@@ -251,10 +251,10 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: Bowenの破站
-    link: https://bowenyoung.cn
-    avatar: https://bowenyoung.cn/img/avator.png
-    description: 信息安全学习中...
+  - name: BeaCox
+    link: https://blog.beacox.space
+    avatar: https://blog.beacox.space/img/avatar.png
+    description: On the way to be a hacker
     theme:
       style: default
       siteImage: ''
