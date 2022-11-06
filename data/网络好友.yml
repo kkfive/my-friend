@@ -310,10 +310,10 @@ link_list:
   - name: Mycpen
     link: https://cpen.top/
     avatar: https://image.cpen.top/image/avatar.jpg
-    descr: 这是一个有趣的博客
+    description: 这是一个有趣的博客
     theme:
       style: default
-      siteImage:
+      siteImage: ''
       
 
   - name: 何孙涛の博客
