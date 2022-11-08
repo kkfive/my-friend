@@ -251,10 +251,10 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: Bowenの破站
-    link: https://bowenyoung.cn
-    avatar: https://bowenyoung.cn/img/avator.png
-    description: 信息安全学习中...
+  - name: BeaCox
+    link: https://blog.beacox.space
+    avatar: https://blog.beacox.space/img/avatar.png
+    description: On the way to be a hacker
     theme:
       style: default
       siteImage: ''
@@ -310,10 +310,10 @@ link_list:
   - name: Mycpen
     link: https://cpen.top/
     avatar: https://image.cpen.top/image/avatar.jpg
-    descr: 这是一个有趣的博客
+    description: 这是一个有趣的博客
     theme:
       style: default
-      siteImage:
+      siteImage: ''
       
 
   - name: 何孙涛の博客
