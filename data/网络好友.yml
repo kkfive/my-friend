@@ -339,4 +339,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
-
+      
+  - name: 张时贰
+    link: https://zhangshier.vip
+    avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+    descr: 环转码，爱敲代码的小张！
+    theme:
+      style: default
+      siteImage: ''
