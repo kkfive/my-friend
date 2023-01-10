@@ -347,3 +347,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - name: WindBack
+    link: https://windback.xyz
+    avatar: https://static.windback.xyz/avatar.jpg
+    descr: 各自努力，山顶再见
+    theme:
+      style: default
+      siteImage: ''
