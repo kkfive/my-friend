@@ -349,9 +349,9 @@ link_list:
       siteImage: ''
 
   - name: WindBack
-    link: https://windback.xyz
-    avatar: https://static.windback.xyz/avatar.jpg
-    descr: 各自努力，山顶再见
+    link: https://wndbac.cn
+    avatar: https://static.wndbac.cn/avatar.jpg
+    description: 各自努力，山顶再见
     theme:
       style: default
       siteImage: ''
