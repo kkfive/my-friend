@@ -89,6 +89,13 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: https://cdn.lovelu.top/img/logo.png
+    description: 追求让人充实，分享让人快乐
+    link: https://blog.lovelu.top
+    name: 满心
+    theme:
+      style: card
+      siteImage: 'https://cdn.lovelu.top/img/siteshot.webp'
   - avatar: https://www.hack-gov.com.cn/img/friend_404.gif
     description: 海客GO - 爱牟 听着海客的瀛谈
     link: https://www.hack-gov.com.cn/
