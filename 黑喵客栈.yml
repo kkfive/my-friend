@@ -1,0 +1,11 @@
+class_name: 黑喵客栈
+class_desc: 一个有黑喵的神秘能量的原神客栈
+link_list:
+  - name: 黑喵客栈
+    link: https://wangshuinn.com
+    avatar: https://wangshuinn.com/wp-content/uploads/2023/01/47fd3796c8220035.png
+    descr: 一个有黑喵的神秘能量的原神客栈
+    theme:
+      style: default
+      siteImage:
+      
