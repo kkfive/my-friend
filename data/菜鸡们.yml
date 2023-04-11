@@ -55,3 +55,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: >-
+      https://www.stars22.xyz/image/logo_0.1.png
+    description: 在点点星光中积累，以致星空璀璨
+    link: http://www.stars22.xyz/
+    name: 星华彼岸
+    theme:
+      style: default
+      siteImage: ''
