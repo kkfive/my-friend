@@ -1,40 +1,10 @@
 class_name: 大佬们
 class_desc: ''
 link_list:
-  - avatar: https://blog.onemue.cn/wp-content/uploads/2020/06/logo-5.png
-    description: 不积跬步无以至千里，不积小流无以成江海
-    link: https://blog.onemue.cn/
-    name: 一生亦木
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://rmt.dogedoge.com/fetch/ZYGG/storage/20201208143114085332.png
-    description: 低调求发展，潜心习安全
-    link: https://blog.zygd.site
-    name: XR-SEC
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://lishisan.top/img/avatar.png
     description: 此人已被注销
     link: https://lishisan.top/
     name: 李十三
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://hasaik.com/images/avatar.jpg
-    description: 简单不先于复杂，而是在复杂之后
-    link: https://hasaik.com
-    name: ·银河小徐
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.nutssss.cn/wp-content/uploads/2020/02/1581510626-head.png
-    description: 一个爱好钻研技术的咸鱼
-    link: https://blog.n0ts.cn/
-    name: N0ts Blog
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -54,13 +24,6 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/liuyeweiQX/picBed/img/avatar.png
-    description: 却又突然听到你的消息
-    link: https://www.liuyewei.com
-    name: 仟寻
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg
     description: 百学须先立志
     link: https://nanzx.top
@@ -72,13 +35,6 @@ link_list:
     description: 琉璃的医学 & 编程笔记
     link: https://shoka.lostyu.me
     name: 優萌初華
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/gyl-coder/blogImgs/images/touxiang.webp
-    description: Java / 算法 / 随笔
-    link: https://gyl-coder.top/
-    name: Yanliang's blog
     theme:
       style: default
       siteImage: ''
@@ -103,34 +59,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://zfe.space/images/headimage.png
-    description: 做个有梦想的人！
-    link: https://zfe.space/
-    name: 小冰博客
-    theme:
-      style: default
-      siteImage: ''
   - avatar: >-
       https://www.7b3.org/usr/uploads/2020/11/202001071433532cdf29186aa4ad1777f0c558ebcfb525.jpg
     description: ''
     link: https://www.7b3.org/
     name: 柒比叁
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://ittiger.top/%E5%A4%B4%E5%83%8F.jpg
-    description: 学海无涯，永无止境。
-    link: https://www.iftiger.com
-    name: 泰戈尔
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/adminks666/bufferfly.cn/images/avatar.jpg
-    description: HEXO-主题Butterfly主题优秀开发魔改致敬
-    link: https://www.bufferfly.cn/
-    name: 开发者致敬
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -142,16 +75,9 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/zjwo/CDN@master/img/blog/avatar.jpg
-    description: 好记性不如烂笔头
-    link: https://blog.imzjw.cn/
-    name: 小嘉的部落格
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://public.cdn.nesxc.com/avatar.jpg
+  - avatar: https://img.cdn.nesxc.com/upload/wordpress/bedf33e068e4abe0beceb1d1ab00f99f-150x150.jpg
     description: 青石落晚巷 故人未还乡
-    link: https://www.nesxc.com
+    link: https://www.imcharon.com/
     name: Nesxc
     theme:
       style: default
@@ -171,26 +97,12 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/Daibi-mua/jsdelivr@1.3/logo.png
-    description: 一个初中生的博客
-    link: https://blog.keepdai.cn/
-    name: 呆逼の博客
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://cdn.jsdelivr.net/gh/lbr77/picbed/img/20210130094246.png
     description: 当你的天空下起了大雨，那是我在为你炸乌云
     link: https://blog.stevelbr.top/
     name: Steve Li's Blog
     # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
     banSub: true
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: http://hudisk.tpddns.cn:4000/img/avatar.jpg
-    description: 何以解忧，唯有暴富！
-    link: http://hudisk.tpddns.cn:4000/
-    name: Jerry Huang
     theme:
       style: default
       siteImage: ''

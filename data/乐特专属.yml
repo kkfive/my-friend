@@ -3,7 +3,7 @@ class_desc: 乐特大佬专属位置
 link_list:
   - avatar: https://www.lete114.top/img/avatar.png
     description: 人生只有一次，大胆的生活！！
-    link: https://www.lete114.top
+    link: https://www.imlete.cn/
     name: Lete乐特
     # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
     # 例如 我已经知道乐特没有rss 所以我不想让爬虫再去爬乐特的站了 那就banSub: true
@@ -22,4 +22,4 @@ link_list:
 
     theme:
       style: card
-      siteImage: https://webstack-screenshot.vercel.app/?url=www.imlete.cn&viewport=1920x1080&fullPage=false&cache=31536000
+      siteImage: https://api.antmoe.com/api/open/website/lete

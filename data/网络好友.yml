@@ -1,14 +1,6 @@
 class_name: 网络好友
 class_desc: <h4>这些可能都是群友吧？</h4>
 link_list:
-  - name: 小羊睡着了
-    link: https://thtown.cn/
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=750478724&s=640
-    description: 随着时间流逝，很多事情最后可能都会迎刃而解。
-    theme:
-      style: default
-      siteImage: ''
-      
   - name: 雪曦
     link: https://xiabor.com
     avatar: https://xiabor.com/img/avatar.png
@@ -37,14 +29,6 @@ link_list:
     link: https://yangchaoyi.vip/
     avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
     description: 不是只会写业务代码の前端攻城狮
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: Javidの部屋
-    link: https://javid.cn
-    avatar: https://cdn.jsdelivr.net/gh/Javid-Xi/cdn@1.7/img/doraemon.jpg
-    description: 一个技术路上的おとこのこ
     theme:
       style: default
       siteImage: ''
@@ -93,34 +77,11 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: Dxoca's blog
-    link: https://dxoca.cn/
-    avatar: http://Dxoca.cn/image/headPortrait.jpg
-    description: 生命不息折腾不止.寒光博客
-    theme:
-      style: default
-      siteImage: ''
 
   - name: Hilox’s Blog
     link: https://www.zhaohaihao.com/
     avatar: https://gravatar.loli.net/avatar/406ff7ab1648c391f51777f8423008bb
     description: 人生就像巧克力
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: SWJの部落阁
-    link: https://blog.zggsong.cn
-    avatar: https://blog.7664926586.top/usr/default/img/favicon.ico
-    description: 一只爱健身的程序员~
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 过客~励む
-    link: https://yafine-blog.cn
-    avatar: https://yafine-blog.cn/medias/avatar.jpg
-    description: 😎你现在的努力，是为了以后有更多的选择
     theme:
       style: default
       siteImage: ''
@@ -167,14 +128,6 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: XJHui’s Blog
-    link: https://plushine.cn
-    avatar: https://cdn.jsdelivr.net/gh/xingjiahui/CDN/touxiang.jpg
-    description: 这个博主想骗访客^_^
-    theme:
-      style: default
-      siteImage: ''
-
   - name: 惑
     link: https://huohuohuohuohuohuo.github.io/
     avatar: http://q8rorzm33.bkt.clouddn.com/huo.png
@@ -207,14 +160,6 @@ link_list:
     link: https://www.fezhu.top
     avatar: https://cdn.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
     description: 一只蒟蒻仔
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: Sanarous
-    link: https://bestzuo.cn
-    avatar: https://cdn.jsdelivr.net/gh/Sanarous/files@1.11/images/avatar.jpeg
-    description: 码农人生
     theme:
       style: default
       siteImage: ''
@@ -291,14 +236,6 @@ link_list:
       style: default
       siteImage: ''
       
-  - name: YupenBobの小窝
-    link: https://www.yupenbob.ml
-    avatar: https://www.yupenbob.ml/img/YupenBob.png
-    description: 分享一些好玩的~
-    theme:
-      style: default
-      siteImage: ''
-      
   - name: wjnba的博客
     link: https://wjnba.gitee.io/
     avatar: https://raw.githubusercontents.com/wjnba/resources/main/img/202205231730917.jpeg
@@ -336,14 +273,6 @@ link_list:
     link: https://blog.panghai.top
     avatar: https://blog.panghai.top/img/avatar.png
     descr: 保持谨慎，保持乐观
-    theme:
-      style: default
-      siteImage: ''
-      
-  - name: 张时贰
-    link: https://zhangshier.vip
-    avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
-    descr: 环转码，爱敲代码的小张！
     theme:
       style: default
       siteImage: ''
