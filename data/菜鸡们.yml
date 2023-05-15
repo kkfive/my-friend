@@ -15,8 +15,7 @@ link_list:
     name: CC的部落格
     theme:
       style: card
-      siteImage: >-
-        https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.ccknbc.cc.webp
+      siteImage: https://api.antmoe.com/api/open/website/cc
   - avatar: https://www.livejq.top/img/livejqTop.jpg
     description: 若没有乐趣可言, 何来开始
     link: https://www.livejq.top
@@ -30,8 +29,7 @@ link_list:
     name: 葱苓
     theme:
       style: card
-      siteImage: >-
-        https://gcore.jsdelivr.net/gh/ciraos/ciraos-static@main/img/2022-12-30-23-36-05.webp
+      siteImage: https://api.antmoe.com/api/open/website/ciraos
   - avatar: https://www.clzczh.top/medias/avatar.png
     description: One plus one equals two!!!
     link: https://www.clzczh.top/

@@ -51,7 +51,7 @@ link_list:
     name: 满心
     theme:
       style: card
-      siteImage: 'https://cdn.lovelu.top/img/siteshot.webp'
+      siteImage: https://api.antmoe.com/api/open/website/lovelu
   - avatar: https://www.hack-gov.com.cn/img/friend_404.gif
     description: 海客GO - 爱牟 听着海客的瀛谈
     link: https://www.hack-gov.com.cn/
