@@ -191,3 +191,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
+  - avatar: https://img.zuilang.tk/avatar/avatar.png
+    description: 一只喜欢七彩球的枯叶蝶
+    link: https://blog.zuilang.tk
+    name: 醉浪の博客
+    theme:
+      style: default
+      siteImage: ''
