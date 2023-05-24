@@ -284,3 +284,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+      
+  - name: 张时贰
+    link: https://zhsher.cn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1310446718&s=5
+    description: 环转码，爱敲代码的小张！
+    theme:
+      style: default
+      siteImage: ''
