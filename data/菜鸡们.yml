@@ -61,3 +61,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - avatar: >-
+      https://blog.qiusyan.top/photos/avatar_1.jpg
+    description: 且将新火试新茶，诗酒趁年华
+    link: https://blog.qiusyan.top/
+    name: QiuSYan's Blog
+    theme:
+      style: default
+      siteImage: ''
