@@ -292,3 +292,11 @@ link_list:
     theme:
       style: default
       siteImage: ''
+
+  - name: SongZihui
+    link: https://promhub.top
+    avatar: https://promhub.top/favicon.ico
+    description: 喜欢瞎捣鼓，分享自己的一些心得
+    theme:
+      style: default
+      siteImage: ''
