@@ -33,10 +33,10 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: SL’s Blog
-    link: https://blog.slqwq.cn/
-    avatar: https://cdn.slblog.ga/pic/logo.png/
-    description: 梦中做梦，做了个白日梦
+  - name: FloatSheep's Blog
+    link: https://blog.hesiy.cn/
+    avatar: https://rmt.ladydaily.com/fetch/hajeekn/storage/20230825171932.png
+    description: On the other side of obstacles.
     theme:
       style: default
       siteImage: ''
