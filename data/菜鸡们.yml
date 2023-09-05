@@ -23,7 +23,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://gcore.jsdelivr.net/gh/ciraos/ciraos-static@main/img/2022-12-30-23-26-12.webp
+  - avatar: https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.webp
     description: DARE & DO
     link: https://blog.itciraos.cn
     name: 葱苓
