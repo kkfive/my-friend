@@ -25,7 +25,7 @@ link_list:
       siteImage: ''
   - avatar: https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.webp
     description: DARE & DO
-    link: https://blog.itciraos.cn
+    link: https://blog.ciraos.top
     name: 葱苓
     theme:
       style: card
