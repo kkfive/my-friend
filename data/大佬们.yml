@@ -8,26 +8,12 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://i.loli.net/2020/04/24/pADyi12KEcV7Yb4.png
-    description: PrAcTiCe
-    link: https://ardor.one
-    name: 回响小站
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/img/custom/avatar.jpg
     description: Luwang's Blog
     link: https://myblog.wallleap.cn
     name: wallleap
     # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
     banSub: true
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg
-    description: 百学须先立志
-    link: https://nanzx.top
-    name: 阿楠
     theme:
       style: default
       siteImage: ''
@@ -45,13 +31,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.lovelu.top/img/logo.png
-    description: 追求让人充实，分享让人快乐
-    link: https://blog.lovelu.top
-    name: 满心
-    theme:
-      style: card
-      siteImage: https://api.antmoe.com/api/open/website/lovelu
+
   - avatar: https://www.hack-gov.com.cn/img/friend_404.gif
     description: 海客GO - 爱牟 听着海客的瀛谈
     link: https://www.hack-gov.com.cn/
@@ -59,14 +39,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: >-
-      https://www.7b3.org/usr/uploads/2020/11/202001071433532cdf29186aa4ad1777f0c558ebcfb525.jpg
-    description: ''
-    link: https://www.7b3.org/
-    name: 柒比叁
-    theme:
-      style: default
-      siteImage: ''
+
   - avatar: >-
       https://vkceyugu.cdn.bspapp.com/VKCEYUGU-yuina/488fb4d0-2ec3-11eb-b997-9918a5dda011.png
     description: 来自某咸鱼的分享
@@ -75,18 +48,10 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://img.cdn.nesxc.com/upload/wordpress/bedf33e068e4abe0beceb1d1ab00f99f-150x150.jpg
+  - avatar: https://public.cdn.nesxc.com/avatar.jpg
     description: 青石落晚巷 故人未还乡
     link: https://www.imcharon.com/
     name: Nesxc
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/zc998800/cdn/image/dorcandy.jpg
-    description: 一喵一世界
-    link: https://dorcandy.cn
-    name: 火喵酱
-    feed: https://cat.dorcandy.cn/
     theme:
       style: default
       siteImage: ''
@@ -97,15 +62,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/lbr77/picbed/img/20210130094246.png
-    description: 当你的天空下起了大雨，那是我在为你炸乌云
-    link: https://blog.stevelbr.top/
-    name: Steve Li's Blog
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
-    theme:
-      style: default
-      siteImage: ''
+  
   - avatar: https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/image/logo.jpg
     description: 醒亦念卿，梦亦念卿
     link: https://blog.justlovesmile.top/
@@ -121,7 +78,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
-  - avatar: https://adil.com.cn/img/touxiang.jpg
+  - avatar: https://tucdn.wpon.cn/2023/04/06/15dbbb2004b44.jpg
     description: 生命不死，折腾不止
     link: https://adil.com.cn
     name: Adil
@@ -137,21 +94,8 @@ link_list:
     theme:
       style: default
       siteImage: https://ih.onektas.top/cover/siteshot.jpg
-  - avatar: >-
-      https://cdn.jsdelivr.net/gh/xiaoliblog/image@6b5e7ef72be1c8973d94e5a9c49accbf775ad820/2021/02/01/c485da031fe0e464d04eaba8a66c4a8f.png
-    description: ''
-    link: https://xiaoliblog.cn/
-    name: 小李博客
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/realwds/cdn@master/img/20201216165755.jpg
-    description: ''
-    link: https://blog.realwds.com
-    name: realwds's blog
-    theme:
-      style: default
-      siteImage: ''
+
+
   - avatar: https://blog.catrol.cn/img/headIcon.jpg
     description: ''
     link: https://blog.catrol.cn/
@@ -168,13 +112,7 @@ link_list:
       style: default
       siteImage: ''
 
-  - avatar: https://s4.ax1x.com/2021/12/11/oTDujJ.jpg
-    description: 记录一枚菜鸟的征程
-    link: https://226yzy.com
-    name: 星空下的YZY
-    theme:
-      style: default
-      siteImage: ''
+
 
   - avatar: https://cdn.jsdelivr.net/gh/emoryhuang/imgbed@master/avatar.png
     description: Learning everything

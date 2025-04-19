@@ -1,14 +1,6 @@
 class_name: 菜鸡们
 class_desc: ''
 link_list:
-  - avatar: >-
-      https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
-    description: Remarkable life,for science and technology.
-    link: https://zykj.js.org/
-    name: 卓越科技的Blog
-    theme:
-      style: default
-      siteImage: ''
   - avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
     description: CC康纳百川
     link: https://www.ccknbc.cc
@@ -34,38 +26,6 @@ link_list:
     description: One plus one equals two!!!
     link: https://www.clzczh.top/
     name: 赤蓝紫
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://eamonimgbed.oss-cn-beijing.aliyuncs.com/img/avatar.png
-    description: 一个生物研究生的学习笔记
-    link: https://fanyiming.life/
-    name: Eamon's Blog
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://pic1.imgdb.cn/item/630c05de16f2c2beb1d86de2.jpg
-    description: 苦难不值得追求，磨练意志是因为苦难无法躲开
-    link: https://weekdaycare.cn/
-    name: 涛声依旧
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://www.stars22.xyz/image/logo_0.1.png
-    description: 在点点星光中积累，以致星空璀璨
-    link: http://www.stars22.xyz/
-    name: 星华彼岸
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://blog.qiusyan.top/photos/avatar_1.jpg
-    description: 且将新火试新茶，诗酒趁年华
-    link: https://blog.qiusyan.top/
-    name: QiuSYan's Blog
     theme:
       style: default
       siteImage: ''

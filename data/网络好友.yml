@@ -1,22 +1,7 @@
 class_name: 网络好友
 class_desc: <h4>这些可能都是群友吧？</h4>
 link_list:
-  - name: 雪曦
-    link: https://xiabor.com
-    avatar: https://xiabor.com/img/avatar.png
-    description: 君浅吟，叹落笔
-    theme:
-      style: default
-      siteImage: ''
       
-  - name: GamerNoTitle
-    link: https://bili33.top
-    avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
-    description: 一个在懵懂无知中成长的高中生程序员^V^
-    theme:
-      style: default
-      siteImage: ''
-
   - name: 云游君
     link: https://yunyoujun.cn
     avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
@@ -25,13 +10,6 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: 超逸の技术博客
-    link: https://yangchaoyi.vip/
-    avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
-    description: 不是只会写业务代码の前端攻城狮
-    theme:
-      style: default
-      siteImage: ''
 
   - name: FloatSheep's Blog
     link: https://blog.hesiy.cn/
@@ -69,81 +47,11 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: 纸盒博客
-    link: https://zhebk.cn
-    avatar: https://q.qlogo.cn/g?b=qq&nk=945203919&s=100
-    description: 我们，渺小到不可一世。
-    theme:
-      style: default
-      siteImage: ''
-
-
-  - name: Hilox’s Blog
-    link: https://www.zhaohaihao.com/
-    avatar: https://gravatar.loli.net/avatar/406ff7ab1648c391f51777f8423008bb
-    description: 人生就像巧克力
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 醉渔小站
-    link: https://blog.zuiyu1818.cn/
-    avatar: https://blog.zuiyu1818.cn/images/avatar.png
-    description: 分享所知所学，记录折腾之路
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 皮皮凛の小窝
-    link: https://owomoe.net/
-    avatar: https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg
-    description: 永远相信美好的事情即将发生~
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: Moea
-    link: https://moea.cc/
-    avatar: https://moea.cc/content/templates/NULL/images/tx.jpg
-    description: 一个杂七杂八的小世界
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: HONGWEI’s Blog
-    link: https://www.zhwei.cn/
-    avatar: https://www.zhwei.cn/favicon.ico
-    description: 写如诗的内容，分享温而不沸的生活。
-    theme:
-      style: default
-      siteImage: ''
 
   - name: 查理的自留地
     link: https://www.vachiko.com
     avatar: https://www.vachiko.com/upload/medium.jpg
     description: 不懂医学的摄影师不是好摄影师
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 惑
-    link: https://huohuohuohuohuohuo.github.io/
-    avatar: http://q8rorzm33.bkt.clouddn.com/huo.png
-    description: 楼下我老婆( •̀ .̫ •́ )✧
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: 会飞的小弋
-    link: https://lovelijunyi.gitee.io/
-    avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
-    description: 喜欢大数据，嵌入式和机器视觉
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -164,29 +72,11 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: 五月森林 志
-    avatar: https://cdn.jsdelivr.net/gh/ZhaoEli/static/img/sys/avatar.jpg
-    link: https://cherrycat.gitee.io
-    description: 业余编剧，互联网产品经理，记录日常感悟及学习。
-    theme:
-      style: default
-      siteImage: ''
 
-  - name: Gahotx
-    link: https://gahotx.cn/
-    avatar: https://pub.gahotx.cn/photo/cat.jpg
-    description: Don't repeat yourself
-    theme:
-      style: default
-      siteImage: ''
 
-  - name: CasecoRI
-    link: https://www.casecori.top/
-    avatar: https://cdn.casecori.top/gh/cystee/om/favicon.png
-    description: 高智熵博主
-    theme:
-      style: default
-      siteImage: ''
+
+
+
 
   - name: ImCaO's Blog
     link: https://www.imcao.cn
@@ -196,37 +86,12 @@ link_list:
       style: default
       siteImage: ''
 
-  - name: BeaCox
-    link: https://blog.beacox.space
-    avatar: https://blog.beacox.space/img/avatar.png
-    description: On the way to be a hacker
-    theme:
-      style: default
-      siteImage: ''
 
-  - name: Felix的基地
-    link: https://www.felixchen0707.cn
-    avatar: https://www.felixchen0707.cn/img/theme_img/profile.jpg
-    description: 抬头看未来
-    theme:
-      style: default
-      siteImage: ''
+
       
-  - name: 陈鑫磊的博客
-    link: https://www.cxl2020mc.top
-    avatar: https://www.cxl2020mc.top/img/avatar.png
-    description: 这个人太懒了啥也没写......
-    theme:
-      style: default
-      siteImage: ''
+
       
-  - name: Leonus's blog
-    link: https://blog.leonus.cn/
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
-    description: 进一寸有进一寸的欢喜。
-    theme:
-      style: default
-      siteImage: ''
+
       
   - name: Bore's Notes
     link: https://bore.vip
@@ -235,31 +100,6 @@ link_list:
     theme:
       style: default
       siteImage: ''
-      
-  - name: wjnba的博客
-    link: https://wjnba.gitee.io/
-    avatar: https://raw.githubusercontents.com/wjnba/resources/main/img/202205231730917.jpeg
-    description: 君子以坦荡立于世间，必将步步生花，一路繁华
-    theme:
-      style: default
-      siteImage: ''
-      
-  - name: Mycpen
-    link: https://cpen.top/
-    avatar: https://image.cpen.top/image/avatar.jpg
-    description: 这是一个有趣的博客
-    theme:
-      style: default
-      siteImage: ''
-      
-
-  - name: 何孙涛の博客
-    link: https://z555.icu/
-    avatar: https://z555.icu/img/avatar.png
-    descr: 什么都无法阻挡我们前进的脚步
-    theme:
-      style: default
-      siteImage:
 
   - name: ichika
     link: https://ichika.cc
@@ -268,35 +108,4 @@ link_list:
     theme:
       style: default
       siteImage: ''
-
-  - name: 心流
-    link: https://blog.panghai.top
-    avatar: https://blog.panghai.top/img/avatar.png
-    descr: 保持谨慎，保持乐观
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: WindBack
-    link: https://wndbac.cn
-    avatar: https://static.wndbac.cn/avatar.jpg
-    description: 世态人情，可当书读，可作戏看。
-    theme:
-      style: default
-      siteImage: ''
       
-  - name: 张时贰
-    link: https://zhsher.cn
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1310446718&s=5
-    description: 环转码，爱敲代码的小张！
-    theme:
-      style: default
-      siteImage: ''
-
-  - name: SongZihui
-    link: https://promhub.top
-    avatar: https://promhub.top/favicon.ico
-    description: 喜欢瞎捣鼓，分享自己的一些心得
-    theme:
-      style: default
-      siteImage: ''
