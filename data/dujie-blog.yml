@@ -1,0 +1,10 @@
+class_name: 渡劫博客
+class_desc: Web 版 AI 编程工作台 + Cloudflare 全栈技术博客
+link_list:
+  - name: 渡劫博客
+    link: https://www.520691.xyz
+    avatar: https://www.520691.xyz/assets/avatar.svg
+    descr: Web 版 AI 编程工作台 + Cloudflare 全栈技术博客
+    theme:
+      style: default
+      siteImage: ''
